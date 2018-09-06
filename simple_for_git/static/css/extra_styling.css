@@ -1,0 +1,7 @@
+.carousel-caption {
+    max-width: 100%;
+    width:100%;
+    background-color: rgba(0,0,0,0.3);
+    left: 0;
+    bottom: 0;
+}

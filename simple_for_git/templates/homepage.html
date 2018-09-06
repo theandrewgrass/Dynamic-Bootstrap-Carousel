@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% set app_title = "Home" %}
+{% block title%}{{ app_title}} - {% endblock %}
+
+{% block content %}
+
+    <div class="container_fluid">
+        <div class="row">
+
+            {% for featured_content in all_featured_packages %}
+                {% with featured_content_packaged=featured_content %}
+                    {% include "featured_content.html" ignore missing %}
+                {% endwith %}
+            {% endfor %}
+        </div>
+    </div>
+    <br/><br/><br/><br/>
+
+{% endblock %}

@@ -1,0 +1,24 @@
+###Slide1
+slide_title=Harry Pooper
+slide_description=You're a blizzard, Harry.
+image_filename=harrypotter.jpg
+content_url=https://en.wikipedia.org/wiki/Harry_Potter
+---
+###Slide2
+slide_title=Lord of the Rings
+slide_description=Hilbo Haggins is my homie.
+image_filename=lordoftherings.jpeg
+content_url=https://en.wikipedia.org/wiki/The_Lord_of_the_Rings
+---
+###Slide3
+slide_title=Hunger Games
+slide_description=We gon die cuzza Snow.
+image_filename=hungergames.jpg
+content_url=https://en.wikipedia.org/wiki/The_Hunger_Games
+---
+###Slide4
+slide_title=Indiana Jones
+slide_description=Where dat crizzie at?
+image_filename=indianajones.jpg
+content_url=https://en.wikipedia.org/wiki/Indiana_Jones_(franchise)
+---
